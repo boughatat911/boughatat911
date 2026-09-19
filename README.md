@@ -1,4 +1,4 @@
-# Hi, I'm Boughatat 👋
+# Hi, I'm Naoufal bougrine 👋
 
 ### Junior Software Engineer | 42 Network
 
