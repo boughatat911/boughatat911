@@ -66,11 +66,13 @@ Algorithmic sorting project using two stacks and a restricted set of operations.
 
 Containerized infrastructure project using Docker.
 
-### 🏓 ft_transcendence
+### 🏪 ft_transcendence
 
-Full-stack multiplayer web application.
+Retail management SaaS web application for sellers.
 
-**My backend focus:** Node.js, TypeScript/NestJS, REST API architecture, PostgreSQL/schema design, migrations, commerce and inventory backend, Caisse/POS backend, API Gateway coordination, and receipt-verification workflows.
+**My backend focus:** Node.js, TypeScript/NestJS, REST API architecture, PostgreSQL/schema design, migrations, Inventory and POS/Caisse backend modules, checkout APIs, stock movements, commerce data, and analytics support.
+
+**Project architecture:** Single modular backend with clear domain boundaries for authentication, users/staff, organizations, inventory, POS/Caisse, realtime, AI Studio, analytics, notifications, compliance, and optional blockchain receipts.
 
 ## 🎯 Current Focus
 
