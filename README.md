@@ -50,6 +50,14 @@ I'm currently expanding my skills in **TypeScript, Node.js, NestJS, databases, D
 
 ## 🚀 Featured Projects
 
+### 🏪 ft_transcendence
+
+Retail management SaaS web application for sellers.
+
+**My backend focus:** Node.js, TypeScript/NestJS, REST API architecture, PostgreSQL/schema design, migrations, Inventory and POS/Caisse backend modules, checkout APIs, stock movements, commerce data, and analytics support.
+
+**Project architecture:** Single modular backend with clear domain boundaries for authentication, users/staff, organizations, inventory, POS/Caisse, realtime, AI Studio, analytics, notifications, compliance, and optional blockchain receipts.
+
 ### 🐚 Minishell
 
 Unix shell implementation written in C.
@@ -66,19 +74,13 @@ Algorithmic sorting project using two stacks and a restricted set of operations.
 
 Containerized infrastructure project using Docker.
 
-### 🏪 ft_transcendence
-
-Retail management SaaS web application for sellers.
-
-**My backend focus:** Node.js, TypeScript/NestJS, REST API architecture, PostgreSQL/schema design, migrations, Inventory and POS/Caisse backend modules, checkout APIs, stock movements, commerce data, and analytics support.
-
-**Project architecture:** Single modular backend with clear domain boundaries for authentication, users/staff, organizations, inventory, POS/Caisse, realtime, AI Studio, analytics, notifications, compliance, and optional blockchain receipts.
-
 ## 🎯 Current Focus
 
 Systems Programming → Networking → Linux & Docker → TypeScript / JavaScript → Node.js / NestJS → Backend & PostgreSQL → Cybersecurity → Web3
 
 ## 📫 Connect
+
+**Email:** [naoufal.bougrine.dev@gmail.com](naoufal.bougrine.dev@gmail.com)
 
 **GitHub:** [@boughatat911](https://github.com/boughatat911)
 
